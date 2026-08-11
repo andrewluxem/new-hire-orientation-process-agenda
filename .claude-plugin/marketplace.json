@@ -1,0 +1,23 @@
+{
+  "name": "new-hire-orientation-process-agenda",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Builds an orientation agenda by outcome, owner, timebox, material, and follow-up. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "new-hire-orientation-process-agenda",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Builds an orientation agenda by outcome, owner, timebox, material, and follow-up. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "new-hire-orientation",
+        "agenda"
+      ]
+    }
+  ]
+}
