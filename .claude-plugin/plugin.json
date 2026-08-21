@@ -1,0 +1,17 @@
+{
+  "name": "new-hire-orientation-process-agenda",
+  "version": "1.0.0",
+  "description": "Builds an orientation agenda by outcome, owner, timebox, material, and follow-up. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/new-hire-orientation-process-agenda",
+  "repository": "https://github.com/andrewluxem/new-hire-orientation-process-agenda",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "new-hire-orientation",
+    "agenda"
+  ]
+}
